@@ -1,0 +1,24 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Ibrahim mancy
+—————————————-
+
+Question 1: The data represents Amazon customer reviews for electronics products with ratings, written feedback, and product details.
+Question 2: The data shows Amazon customer reviews with ratings, titles, and review text for different products.
+Question 3: This data is a bit more organized
+Question 4: More readable data
+Question 5: The data shows Amazon customer reviews with ratings, titles, and review text for different products.
+Question 6: A good histogram!
+Question 7: Another type of histogram.....
+
+In the first stage, the project proved to be very challenging and ambiguous.
+I was not familiar with the data, nor did I know the role of each step in the process. 
+Too many new ideas were introduced at the start, and I found myself lost among them.
+
+To overcome these challenges, I broke down my project into smaller parts and then started learning about each part one by one. 
+As and when any uncertainties came up, I referred to various online sources and gained basic knowledge about pandas. 
+I was able to learn how to analyze my data, check my columns, and use basic conditional filtering.
+
+This experience proved that in the world of real-world data, 
+there are always some errors or some values that are missing. It also proved that learning is not an overnight process, 
+and it is okay to learn at one's own pace. By the end of this experience, 
+I was familiarized not only with pandas, but also with working in Jupyter Notebook, and I was able to learn a lot by doing, not by reading.
